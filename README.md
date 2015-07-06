@@ -3,6 +3,8 @@
 
 A new router for Angular 1.5 and 2.0, written with [TypeScript](http://www.typescriptlang.org/).
 
+### Do not use this router anymore (unless for exploring purposes) and read a [post about it](https://github.com/angular/angular/issues/2673#issuecomment-117128936)
+
 ## State of this project
 
 For now, the code has been moved to [angular/angular](https://github.com/angular/angular).
